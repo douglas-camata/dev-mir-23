@@ -27,21 +27,22 @@ header>.t1 {
     margin-left: 10px;
 }
 
-#logo>h1, #logo>p {
+#logo>h1,
+#logo>p {
     text-shadow: 1px 1px 5px black;
     margin-bottom: 5px;
 }
 
-#list-alunos{
+#list-alunos {
     display: flex;
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    gap: 20px;
+    gap: 35px;
     padding: 20px;
 }
 
-.card-aluno{
+.card-aluno {
     background-image: url(../img/fundo-card.png);
     background-size: contain;
     background-repeat: no-repeat;
@@ -61,22 +62,36 @@ header>.t1 {
     color: #950d15;
     text-align: center;
     transition: all 500ms;
+    overflow: hidden;
 }
+
 .card-aluno:hover {
     transform: scale(1.1);
     transition: all 500ms;
 }
-.card-aluno > img {
+
+.card-aluno>img {
     margin-top: 20px;
     width: 200px;
     height: 200px;
     border-radius: 50%;
     border: 4px solid white;
 }
-.card-aluno > h2 {
+
+.card-aluno>h2 {
     text-shadow: 1px 1px 1px #fbb8bd;
     font-size: 20px;
 }
+
+.botoes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 5px;
+    position: relative;
+}
+
 .botao {
     background-color: #950d15;
     color: white;
@@ -87,14 +102,25 @@ header>.t1 {
     text-shadow: 2px 2px 5px black;
     box-shadow: 2px 2px 5px black;
 }
-.card-aluno > div {
+
+.card-aluno>div {
     margin-top: 15px;
     margin-bottom: 10px;
 }
 
-hr{
-    background: rgb(255,255,255);
-    background: linear-gradient(90deg, rgba(255,255,255,0) 0%, rgba(149,13,21,1) 50%, rgba(255,255,255,0) 100%);
+.blur {
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    bottom: -80px;
+    right: -60px;
+    background: rgba(255, 51, 51, 0.8);
+    filter: blur(60px);
+}
+
+hr {
+    background: rgb(255, 255, 255);
+    background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, rgba(149, 13, 21, 1) 50%, rgba(255, 255, 255, 0) 100%);
     border: 0;
     height: 4px;
     width: 80%;
@@ -117,11 +143,12 @@ footer {
 }
 
 @media (max-width:700px) {
-    header{
+    header {
         flex-direction: column;
     }
-    #logo{
+
+    #logo {
         text-align: center;
     }
-    
+
 }

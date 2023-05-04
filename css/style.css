@@ -33,7 +33,7 @@ header>.t1 {
     margin-bottom: 5px;
 }
 
-#list-alunos {
+.list-alunos {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -127,10 +127,11 @@ hr {
     margin: 20px auto;
 }
 
-#instrutores {
+.titulo-secao {
     text-align: center;
     color: #950d15;
     text-shadow: 1px 1px 4px rgb(92, 92, 92);
+    margin-top: 10px;
 }
 
 footer {
@@ -150,5 +151,4 @@ footer {
     #logo {
         text-align: center;
     }
-
 }

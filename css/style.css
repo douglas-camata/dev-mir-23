@@ -54,7 +54,6 @@ header>.t1 {
     width: 300px;
     min-height: 300px;
     /*background-image: linear-gradient( to bottom right, #ED1C24 60%, #950d15 );*/
-    background-color: white;
     border-top: 3px solid #950d15;
     border-radius: 10px;
     box-shadow: 3px 3px 5px #950d15;
@@ -109,6 +108,7 @@ header>.t1 {
 }
 
 .blur {
+    z-index: -1;
     position: absolute;
     width: 120px;
     height: 120px;

@@ -18,9 +18,9 @@
     "nome":"Ana Clara", 
     "foto": "img/sem-foto.gif", 
     "trabalhos":[
-        {"projeto":"StarGeek", "link":"#"},
-        {"projeto":"StarCoffee", "link":"#"},
-        {"projeto":"Pizzaria", "link":"#"}
+        {"projeto":"StarGeek", "link":"https://tezzon13.github.io/stargeek/"},
+        {"projeto":"StarCoffee", "link":"https://tezzon13.github.io/starcoffe/"},
+        {"projeto":"Pizzaria", "link":"https://tezzon13.github.io/pizzaria/"}
     ]
 },{
     "nome":"Bianca", 
@@ -99,8 +99,8 @@
     "foto": "img/sem-foto.gif", 
     "trabalhos":[
         {"projeto":"StarGeek", "link":"#"},
-        {"projeto":"StarCoffee", "link":"#"},
-        {"projeto":"Pizzaria", "link":"#"}
+        {"projeto":"StarCoffee", "link":"https://ianzin69.github.io/starcoffee/"},
+        {"projeto":"Pizzaria", "link":"https://ianzin69.github.io/Pizzaria/"}
     ]
 },{
     "nome":"João André", 
@@ -209,8 +209,8 @@
     "nome":"Rafaela Santos", 
     "foto": "img/sem-foto.gif", 
     "trabalhos":[
-        {"projeto":"StarGeek", "link":"#"},
-        {"projeto":"StarCoffee", "link":"#"},
+        {"projeto":"StarGeek", "link":"#https://rafaelalimasantos.github.io/StarGeek/"},
+        {"projeto":"StarCoffee", "link":"https://rafaelalimasantos.github.io/StarCoffee/"},
         {"projeto":"Pizzaria", "link":"#"}
     ]
 },{

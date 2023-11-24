@@ -5,6 +5,9 @@
         {"projeto":"StarGeek", "link":"https://maziiero.github.io/stargeek/"},
         {"projeto":"StarCoffee", "link":"https://maziiero.github.io/starcoffe/"},
         {"projeto":"Pizzaria", "link":"https://maziiero.github.io/pizzaria/"}
+    ],
+    "trabalhos2sem":[
+        {"projeto":"Projeto Aulas C#", "link":"https://projeto-aula-mir-2023.azurewebsites.net/"}
     ]
 },{
     "nome":"Ana Beatriz", 
@@ -13,6 +16,9 @@
         {"projeto":"StarGeek", "link":"https://nabeatricee.github.io/STARGEEK/"},
         {"projeto":"StarCoffee", "link":"https://nabeatricee.github.io/StarCoffee/"},
         {"projeto":"Pizzaria", "link":"https://nabeatricee.github.io/pizzaria/"}
+    ],
+    "trabalhos2sem":[
+        {"projeto":"Projeto Aulas C#", "link":"http://projetinho-bea.azurewebsites.net/"}
     ]
 },{
     "nome":"Ana Clara", 
@@ -21,6 +27,9 @@
         {"projeto":"StarGeek", "link":"https://tezzon13.github.io/stargeek/"},
         {"projeto":"StarCoffee", "link":"https://tezzon13.github.io/starcoffe/"},
         {"projeto":"Pizzaria", "link":"https://tezzon13.github.io/pizzaria/"}
+    ],
+    "trabalhos2sem":[
+        {"projeto":"Projeto Aulas C#", "link":"http://projeto-aulas-tezzon.azurewebsites.net/"}
     ]
 },{
     "nome":"Bianca", 
@@ -29,6 +38,9 @@
         {"projeto":"StarGeek", "link":"https://bibifase.github.io/Stargeek/"},
         {"projeto":"StarCoffee", "link":"https://bibifase.github.io/starcoffe/"},
         {"projeto":"Pizzaria", "link":"https://bibifase.github.io/pizzaria/"}
+    ],
+    "trabalhos2sem":[
+        {"projeto":"Projeto Aulas C#", "link":"https://projeto-aulas-biancasafada.azurewebsites.net/"}
     ]
 },{
     "nome":"Caio", 
@@ -37,6 +49,9 @@
         {"projeto":"StarGeek", "link":"https://yd4rkblood.github.io/stargeek/"},
         {"projeto":"StarCoffee", "link":"https://yd4rkblood.github.io/starcoffee/"},
         {"projeto":"Pizzaria", "link":"https://yd4rkblood.github.io/pizzaria/"}
+    ],
+    "trabalhos2sem":[
+        {"projeto":"Projeto Aulas C#", "link":"https://projeto-aulas-caio.azurewebsites.net/"}
     ]
 },{
     "nome":"Débora", 
@@ -45,6 +60,9 @@
         {"projeto":"StarGeek", "link":"https://lilacbttfly.github.io/Stargeek/"},
         {"projeto":"StarCoffee", "link":"https://lilacbttfly.github.io/Starcoffee/"},
         {"projeto":"Pizzaria", "link":"https://lilacbttfly.github.io/Pixaria/"}
+    ],
+    "trabalhos2sem":[
+        {"projeto":"Projeto Aulas C#", "link":"https://projetoaulasdeboreishon.azurewebsites.net/"}
     ]
 },{
     "nome":"Gabriella", 
@@ -53,6 +71,9 @@
         {"projeto":"StarGeek", "link":"https://fiordelice.github.io/stargeek/"},
         {"projeto":"StarCoffee", "link":"https://fiordelice.github.io/StarCoffee/"},
         {"projeto":"Pizzaria", "link":"https://fiordelice.github.io/pizzaria/"}
+    ],
+    "trabalhos2sem":[
+        {"projeto":"Projeto Aulas C#", "link":"https://proejto-aula-fiordelice.azurewebsites.net/"}
     ]
 },{
     "nome":"Grazielly", 
@@ -61,6 +82,9 @@
         {"projeto":"StarGeek", "link":"https://graziferro2704.github.io/StarGeek/"},
         {"projeto":"StarCoffee", "link":"https://graziferro2704.github.io/StarBucks/"},
         {"projeto":"Pizzaria", "link":"https://graziferro2704.github.io/Pizzaria/"}
+    ],
+    "trabalhos2sem":[
+        {"projeto":"Projeto Aulas C#", "link":"http://projetoaulas-grazy.azurewebsites.net/"}
     ]
 },{
     "nome":"Guilherme", 
@@ -69,6 +93,9 @@
         {"projeto":"StarGeek", "link":"https://guihatesvictor.github.io/Stargeek/"},
         {"projeto":"StarCoffee", "link":"https://guihatesvictor.github.io/Starbucks/"},
         {"projeto":"Pizzaria", "link":"https://guihatesvictor.github.io/pizzaria/"}
+    ],
+    "trabalhos2sem":[
+        {"projeto":"Projeto Aulas C#", "link":"https://projeto-aulas-guilherme-2023.azurewebsites.net/"}
     ]
 },{
     "nome":"Gustavo", 
@@ -77,6 +104,9 @@
         {"projeto":"StarGeek", "link":"https://gustavofreschi.github.io/StarGeek/"},
         {"projeto":"StarCoffee", "link":"https://gustavofreschi.github.io/StarCoffee/"},
         {"projeto":"Pizzaria", "link":"https://gustavofreschi.github.io/Pizzaria/"}
+    ],
+    "trabalhos2sem":[
+        {"projeto":"Projeto Aulas C#", "link":"https://projeto-aulas-gustavo-mir-2023.azurewebsites.net/"}
     ]
 },{
     "nome":"Heitor", 
@@ -85,6 +115,9 @@
         {"projeto":"StarGeek", "link":"https://medinaaaaaaaaaaaaa.github.io/StarGeek/"},
         {"projeto":"StarCoffee", "link":"https://medinaaaaaaaaaaaaa.github.io/StarCoffee/"},
         {"projeto":"Pizzaria", "link":"https://medinaaaaaaaaaaaaa.github.io/Pizzaria/"}
+    ],
+    "trabalhos2sem":[
+        {"projeto":"Projeto Aulas C#", "link":"https://projeto-aulas-medina-2023.azurewebsites.net/"}
     ]
 },{
     "nome":"Helen", 
@@ -93,6 +126,9 @@
         {"projeto":"StarGeek", "link":"https://helenbergo.github.io/StarGeek/"},
         {"projeto":"StarCoffee", "link":"https://helenbergo.github.io/StarCoffee/"},
         {"projeto":"Pizzaria", "link":"https://helenbergo.github.io/Pizzaria/"}
+    ],
+    "trabalhos2sem":[
+        {"projeto":"Projeto Aulas C#", "link":"https://projeto-aulas-helen-2023.azurewebsites.net/"}
     ]
 },{
     "nome":"Ian", 
@@ -101,6 +137,9 @@
         {"projeto":"StarGeek", "link":"#"},
         {"projeto":"StarCoffee", "link":"https://ianzin69.github.io/starcoffee/"},
         {"projeto":"Pizzaria", "link":"https://ianzin69.github.io/Pizzaria/"}
+    ],
+    "trabalhos2sem":[
+        {"projeto":"Projeto Aulas C#", "link":"https://projeto-aulas-ian.azurewebsites.net/"}
     ]
 },{
     "nome":"João André", 
@@ -109,6 +148,9 @@
         {"projeto":"StarGeek", "link":"https://joaoartuzzi.github.io/StarGeek/"},
         {"projeto":"StarCoffee", "link":"https://joaoartuzzi.github.io/StarCoffee/"},
         {"projeto":"Pizzaria", "link":"https://joaoartuzzi.github.io/pizzaria/"}
+    ],
+    "trabalhos2sem":[
+        {"projeto":"Projeto Aulas C#", "link":"https://projeto-aulas-joao.azurewebsites.net/"}
     ]
 },{
     "nome":"João Paulo", 
@@ -117,6 +159,9 @@
         {"projeto":"StarGeek", "link":"https://thepinozambotti.github.io/StarGeek/"},
         {"projeto":"StarCoffee", "link":"https://thepinozambotti.github.io/starcoffee/"},
         {"projeto":"Pizzaria", "link":"https://thepinozambotti.github.io/pizzaria/"}
+    ],
+    "trabalhos2sem":[
+        {"projeto":"Projeto Aulas C#", "link":"https://xn--projeto-aulas-joo-queconi-9dc.azurewebsites.net/"}
     ]
 },{
     "nome":"Júlia Eduarda", 
@@ -125,6 +170,9 @@
         {"projeto":"StarGeek", "link":"https://juliaeduardajuh.github.io/StarGeek/"},
         {"projeto":"StarCoffee", "link":"https://juliaeduardajuh.github.io/starcoffe/"},
         {"projeto":"Pizzaria", "link":"https://juliaeduardajuh.github.io/pizzaria/"}
+    ],
+    "trabalhos2sem":[
+        {"projeto":"Projeto Aulas C#", "link":"https://projetos-aulinha-mir-2023.azurewebsites.net/"}
     ]
 },{
     "nome":"Julia Fernanda", 
@@ -133,6 +181,9 @@
         {"projeto":"StarGeek", "link":"https://ulymaria.github.io/stargeek/"},
         {"projeto":"StarCoffee", "link":"https://ulymaria.github.io/StarCoffee/"},
         {"projeto":"Pizzaria", "link":"https://ulymaria.github.io/pizzaria/"}
+    ],
+    "trabalhos2sem":[
+        {"projeto":"Projeto Aulas C#", "link":"https://projeto-aulas-julia.azurewebsites.net/"}
     ]
 },{
     "nome":"Júlio Miguel", 
@@ -140,6 +191,9 @@
     "trabalhos":[
         {"projeto":"StarGeek", "link":"https://jurin224.github.io/stargeek/"},
         {"projeto":"Pizzaria", "link":"https://jurin224.github.io/pizzaria/"}
+    ],
+    "trabalhos2sem":[
+        {"projeto":"Projeto Aulas C#", "link":"https://projeto-aulas-julio-2023.azurewebsites.net/"}
     ]
 },{
     "nome":"Luana", 
@@ -149,6 +203,9 @@
         {"projeto":"StarCoffee", "link":"https://luanacamargo61.github.io/starcoffe/"},
         {"projeto":"Pizzaria", "link":"https://luanacamargo61.github.io/pizzaria-/"}
 
+    ],
+    "trabalhos2sem":[
+        {"projeto":"Projeto Aulas C#", "link":"https://projeto-luana-2023.azurewebsites.net/"}
     ]
 },{
     "nome":"Maria Clara Real", 
@@ -156,6 +213,9 @@
     "trabalhos":[
         {"projeto":"StarGeek", "link":"https://realmariaclara.github.io/stargeek/"},
         {"projeto":"Pizzaria", "link":"https://realmariaclara.github.io/pizzaria/"}
+    ],
+    "trabalhos2sem":[
+        {"projeto":"Projeto Aulas C#", "link":""}
     ]
 },{
     "nome":"Maria Clara Santos", 
@@ -164,6 +224,9 @@
         {"projeto":"StarGeek", "link":"https://smariaclara.github.io/stargeek/"},
         {"projeto":"StarCoffee", "link":"https://smariaclara.github.io/starcoffee/"},
         {"projeto":"Pizzaria", "link":"https://smariaclara.github.io/pizzaria/"}
+    ],
+    "trabalhos2sem":[
+        {"projeto":"Projeto Aulas C#", "link":"https://aulinhaweb.azurewebsites.net/"}
     ]
 },{
     "nome":"Michelle", 
@@ -172,6 +235,9 @@
         {"projeto":"StarGeek", "link":"https://xurrasquete.github.io/StarGeek/"},
         {"projeto":"StarCoffee", "link":"https://xurrasquete.github.io/StarCoffee/"},
         {"projeto":"Pizzaria", "link":"https://xurrasquete.github.io/pizzaria/"}
+    ],
+    "trabalhos2sem":[
+        {"projeto":"Projeto Aulas C#", "link":"https://projeto-aulas-michelle-2023.azurewebsites.net/"}
     ]
 },{
     "nome":"Nícolas Gabriel", 
@@ -180,6 +246,9 @@
         {"projeto":"StarGeek", "link":"https://mancano00.github.io/stargeek/"},
         {"projeto":"StarCoffee", "link":"https://mancano00.github.io/starcoffee/"},
         {"projeto":"Pizzaria", "link":"https://mancano00.github.io/pizzaria/"}
+    ],
+    "trabalhos2sem":[
+        {"projeto":"Projeto Aulas C#", "link":"http://projeto-aulas-nicolas.azurewebsites.net/"}
     ]
 },{
     "nome":"Pedro Henrique Silva", 
@@ -188,6 +257,9 @@
         {"projeto":"StarGeek", "link":"https://lobaum.github.io/StarGeek-/"},
         {"projeto":"StarCoffee", "link":"https://lobaum.github.io/cafeestrela"},
         {"projeto":"Pizzaria", "link":"https://lobaum.github.io/Pizza-ice-age"}
+    ],
+    "trabalhos2sem":[
+        {"projeto":"Projeto Aulas C#", "link":"https://projetodw.azurewebsites.net/"}
     ]
 },{
     "nome":"Pedro Henrique Melo", 
@@ -196,6 +268,9 @@
         {"projeto":"StarGeek", "link":"https://mellop03.github.io/StarGeek/"},
         {"projeto":"StarCoffee", "link":"https://mellop03.github.io/Starcoffee/"},
         {"projeto":"Pizzaria", "link":"https://mellop03.github.io/Pizzaria/"}
+    ],
+    "trabalhos2sem":[
+        {"projeto":"Projeto Aulas C#", "link":"https://projeto-aulas-melo.azurewebsites.net/"}
     ]
 },{
     "nome":"Rafaela Martinez", 
@@ -204,6 +279,9 @@
         {"projeto":"StarGeek", "link":"https://rafaelamart.github.io/stargeek/"},
         {"projeto":"StarCoffee", "link":"https://rafaelamart.github.io/starcoffee/"},
         {"projeto":"Pizzaria", "link":"https://rafaelamart.github.io/pizzaria/"}
+    ],
+    "trabalhos2sem":[
+        {"projeto":"Projeto Aulas C#", "link":"https://projeto-aulas-rafaela-mir-2023.azurewebsites.net/"}
     ]
 },{
     "nome":"Rafaela Santos", 
@@ -212,6 +290,9 @@
         {"projeto":"StarGeek", "link":"#https://rafaelalimasantos.github.io/StarGeek/"},
         {"projeto":"StarCoffee", "link":"https://rafaelalimasantos.github.io/StarCoffee/"},
         {"projeto":"Pizzaria", "link":"#"}
+    ],
+    "trabalhos2sem":[
+        {"projeto":"Projeto Aulas C#", "link":"https://projeto-aulas-rafalima-2023.azurewebsites.net/"}
     ]
 },{
     "nome":"Ricardo Augusto", 
@@ -220,6 +301,9 @@
         {"projeto":"StarGeek", "link":"https://bardocid0.github.io/StarGeek/"},
         {"projeto":"StarCoffee", "link":"https://bardocid0.github.io/starcoffee/"},
         {"projeto":"Pizzaria", "link":"https://bardocid0.github.io/pizzaria/"}
+    ],
+    "trabalhos2sem":[
+        {"projeto":"Projeto Aulas C#", "link":"https://projeto-aulas-pereira.azurewebsites.net/"}
     ]
 },{
     "nome":"Ruan Pablo", 
@@ -228,6 +312,9 @@
         {"projeto":"StarGeek", "link":"https://ruancastro1533.github.io/stargeek/"},
         {"projeto":"StarCoffee", "link":"https://ruancastro1533.github.io/starcoffee/"},
         {"projeto":"Pizzaria", "link":"https://ruancastro1533.github.io/pizzaria/"}
+    ],
+    "trabalhos2sem":[
+        {"projeto":"Projeto Aulas C#", "link":""}
     ]
 },{
     "nome":"Sérgio Fernando", 
@@ -236,6 +323,9 @@
         {"projeto":"StarGeek", "link":"https://fx-serginho12.github.io/Stargeek/"},
         {"projeto":"StarCoffee", "link":"https://fx-serginho12.github.io/StarCoffee"},
         {"projeto":"Pizzaria", "link":"https://fx-serginho12.github.io/Pizzaria/"}
+    ],
+    "trabalhos2sem":[
+        {"projeto":"Projeto Aulas C#", "link":"https://projeto-aula-sergio-2023.azurewebsites.net/"}
     ]
 },{
     "nome":"Victor Fabiano", 
@@ -244,6 +334,9 @@
         {"projeto":"StarGeek", "link":"https://byd00nie.github.io/Stargeek/"},
         {"projeto":"StarCoffee", "link":"https://byd00nie.github.io/Starcoffee"},
         {"projeto":"Pizzaria", "link":"https://byd00nie.github.io/pizzaria"}
+    ],
+    "trabalhos2sem":[
+        {"projeto":"Projeto Aulas C#", "link":"https://donniety.azurewebsites.net/"}
     ]
 },{
     "nome":"Vinicius", 
@@ -252,6 +345,9 @@
         {"projeto":"StarGeek", "link":"https://cido018.github.io/StarGeek/"},
         {"projeto":"StarCoffee", "link":"https://cido018.github.io/coffee/"},
         {"projeto":"Pizzaria", "link":"https://cido018.github.io/Pizzaria/"}
+    ],
+    "trabalhos2sem":[
+        {"projeto":"Projeto Aulas C#", "link":"https://projeto-aulas-otis-2023.azurewebsites.net/"}
     ]
 },{
     "nome":"Vitória Clara", 
@@ -259,5 +355,8 @@
     "trabalhos":[
         {"projeto":"StarGeek", "link":"https://vivi1823.github.io/StarGeek/"},
         {"projeto":"Pizzaria", "link":"https://vivi1823.github.io/pizzaria/"}
+    ],
+    "trabalhos2sem":[
+        {"projeto":"Projeto Aulas C#", "link":"https://projeto-aulas-vick-2023.azurewebsites.net/"}
     ]
 }]
